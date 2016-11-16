@@ -1,0 +1,69 @@
+{
+	"events": 
+	[
+	{
+		"name": "IEEE DS Awards Ceremony",
+		"venue": "MSIT",
+		"coordinator": "Varshini Ailavajhala",
+		"contact": "+919013591546",
+		"url": "www.facebook.com/media/set/?set=a.1008777485871004.1073741834.662654203816669&type=3",
+		"date": "24th Apr, 2016"
+	},
+	{
+		"name": "QUIZ-STEIN",
+		"venue": "Online",
+		"coordinator": "Viren Pathania",
+		"contact": "+919779464710",
+		"url": "www.facebook.com/ieeedelhissn/photos/a.667996093282480.1073741828.662654203816669/1006312696117483/?type=3&theater",
+		"date": "23rd Apr, 2016"
+	},
+	{
+		"name": "IEEE DS OSS Workshop",
+		"venue": "Delhi Technical University",
+		"coordinator": "Saksham Saxena",
+		"contact": "+919873771606",
+		"url": "www.facebook.com/ieeedelhissn/photos/pcb.1006171382798281/1006169306131822/?type=3&theater",
+		"date": "16th & 17th Apr, 2016"
+	},
+	{
+		"name": "IEEE DS STEP 2016",
+		"venue": "NIEC, New Delhi",
+		"coordinator": "Tushar Varshney",
+		"contact": "+917503734810",
+		"url": "www.facebook.com/media/set/?set=a.1608544069182714.1073741852.601438496559948&type=3",
+		"date": "28th Mar, 2016"
+	},
+	{
+		"name": "IEEE DS Web Dev Workshop",
+		"venue": "Jamia Hamdard University",
+		"coordinator": "Keerti Gautam",
+		"contact": "+917834883450",
+		"url": "www.facebook.com/ieeedelhissn/photos/pcb.985474694867950/985468218201931/?type=3&theater",
+		"date": "19th & 20th Mar ,2016"
+	},
+	{
+		"name": "IEEE DS Android Workshop",
+		"venue": "NIEC , New Delhi",
+		"coordinator": "Tushar Varshney",
+		"contact": "+917503734810",
+		"url": "www.facebook.com/media/set/?set=a.917295128352574.1073741831.662654203816669&type=3",
+		"date": "7th & 8th Nov, 2015"
+	},
+	{
+		"name": "IEEE R10 Mobile App Contest",
+		"venue": "IGIDTUW , New Delhi",
+		"coordinator": "Nitya Khanna",
+		"contact": "+919212220990",
+		"url": "www.facebook.com/media/set/?set=a.917331171682303.1073741832.662654203816669&type=3",
+		"date": "8th Nov, 2015"
+	},
+	{
+		"name": "IEEE DSYWC 2015",
+		"venue": "Jamia Millia Islamia",
+		"coordinator": "Vaibhav Vats",
+		"contact": "+919871570079",
+		"url": "www.facebook.com/ieeedsc/photos/pcb.1532320503724529/1532319877057925/?type=3&theater",
+		"date": "5th & 6th Sept, 2015"
+	}
+	]
+}
